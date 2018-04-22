@@ -1,0 +1,110 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.bccdab36-ee34-4e9c-8459-1c5243eac714",
+		"application": {
+			"applicationId": "amzn1.ask.skill.db929eea-1245-470c-a97f-35aa87ee733b"
+		},
+		"attributes": {
+			"user": {
+				"searchBy": "recipeName",
+				"currentRecipe": {
+					"steps": [
+						"Pour olive oil into a large soup pot, place over high heat, add spinach, and cover",
+						"Cook for 1 minute, uncover, and lightly stir until most of the leaves are bright green and wilted, about 2 minutes",
+						"Quickly drain spinach in a strainer and transfer to a plate lined with 4 or 5 paper towels",
+						"Once cool enough to handle, squeeze as much liquid from the spinach as possible",
+						"Transfer spinach to a cutting board and coarsely chop",
+						"Mix salt, black pepper, cayenne pepper, and nutmeg in a small bowl",
+						"Place a large skillet over medium heat, melt butter in skillet, and stir shallot in the hot butter until just barely golden and translucent, 3 to 4 minutes",
+						"Stir seasoning mixture into shallot mixture and pour in cream",
+						"Raise heat to medium-high and reduce cream sauce to about half, about 5 minutes",
+						"Stir in lemon zest",
+						"Reduce heat to low and toss spinach with cream sauce in skillet",
+						"Cook and stir until spinach is heated through and coated, about 2 minutes",
+						"Stir Parmigiano-Reggiano cheese into spinach until thoroughly combined; serve immediately"
+					],
+					"ingredients": []
+				},
+				"searchParam": "fast",
+				"recipeState": {
+					"currentStep": 0,
+					"ingredientListNo": -1,
+					"recipeIndex": 0
+				},
+				"listRecipesCache": [
+					{
+						"noOfReviews": "100",
+						"RecipeBy": "https://www.allrecipes.com",
+						"Recipe": "fast and easy creamed spinach",
+						"ratings": "4.8",
+						"url": "https://www.allrecipes.com/recipe/234938/fast-and-easy-creamed-spinach/"
+					},
+					{
+						"noOfReviews": "116",
+						"RecipeBy": "https://www.allrecipes.com",
+						"Recipe": "fast salmon with a ginger glaze",
+						"ratings": "4.7",
+						"url": "https://www.allrecipes.com/recipe/221267/fast-salmon-with-a-ginger-glaze/"
+					},
+					{
+						"noOfReviews": "184",
+						"RecipeBy": "https://www.allrecipes.com",
+						"Recipe": "fast english muffin pizzas",
+						"ratings": "4.6",
+						"url": "https://www.allrecipes.com/recipe/86649/fast-english-muffin-pizzas/"
+					},
+					{
+						"noOfReviews": "294",
+						"RecipeBy": "https://www.allrecipes.com",
+						"Recipe": "fast chicken soup base",
+						"ratings": "4.8",
+						"url": "https://www.allrecipes.com/recipe/76957/fast-chicken-soup-base/"
+					}
+				]
+			}
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AGS6GDDRLG5AF33EMHVUMFT6ZAHC4SYYPXH3UL2J7MPQOFW22XTCD4JWGQT6YEFHLFP27GT6WG2TF73IUYW4MFKEE2N4PRWQ3LXDC4BGWVL3Q4CTF5YPAD2SGB5SXE5HR7U7I5RAXG56IGKRKTLJYKP4OZMHFPGNLQAR4E7T5M6Y3IRNGSWC7XTD73UHPCQKDH75BH34ZFDHHZQ"
+		}
+	},
+	"context": {
+		"AudioPlayer": {
+			"playerActivity": "IDLE"
+		},
+		"Display": {
+			"token": ""
+		},
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.db929eea-1245-470c-a97f-35aa87ee733b"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AGS6GDDRLG5AF33EMHVUMFT6ZAHC4SYYPXH3UL2J7MPQOFW22XTCD4JWGQT6YEFHLFP27GT6WG2TF73IUYW4MFKEE2N4PRWQ3LXDC4BGWVL3Q4CTF5YPAD2SGB5SXE5HR7U7I5RAXG56IGKRKTLJYKP4OZMHFPGNLQAR4E7T5M6Y3IRNGSWC7XTD73UHPCQKDH75BH34ZFDHHZQ"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AGPGZ6VIEW67KYEDTRSNALSAN5PFZVR3SKBAZQ2THISYSPZXBGKECJG2CGOK23TYOA3Y2BQSKLGTGHGN63SGI5D7KHXVHYHJYD2U77NBJHYOQRB4PDSIYZAFPRCLXVBIQSWXORLHIAP7C67TAB4C3GQ7MIJK2GEEC3W7TR2DGHWORZ2QJ62AA",
+				"supportedInterfaces": {
+					"AudioPlayer": {},
+					"Display": {
+						"templateVersion": "1.0",
+						"markupVersion": "1.0"
+					}
+				}
+			},
+			"apiEndpoint": "https://api.eu.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmRiOTI5ZWVhLTEyNDUtNDcwYy1hOTdmLTM1YWE4N2VlNzMzYiIsImV4cCI6MTUyNDM5NjkyNSwiaWF0IjoxNTI0MzkzMzI1LCJuYmYiOjE1MjQzOTMzMjUsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUdQR1o2VklFVzY3S1lFRFRSU05BTFNBTjVQRlpWUjNTS0JBWlEyVEhJU1lTUFpYQkdLRUNKRzJDR09LMjNUWU9BM1kyQlFTS0xHVEdIR042M1NHSTVEN0tIWFZIWUhKWUQyVTc3TkJKSFlPUVJCNFBEU0lZWkFGUFJDTFhWQklRU1dYT1JMSElBUDdDNjdUQUI0QzNHUTdNSUpLMkdFRUMzVzdUUjJER0hXT1JaMlFKNjJBQSIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFHUzZHRERSTEc1QUYzM0VNSFZVTUZUNlpBSEM0U1lZUFhIM1VMMko3TVBRT0ZXMjJYVENENEpXR1FUNllFRkhMRlAyN0dUNldHMlRGNzNJVVlXNE1GS0VFMk40UFJXUTNMWERDNEJHV1ZMM1E0Q1RGNVlQQUQyU0dCNVNYRTVIUjdVN0k1UkFYRzU2SUdLUktUTEpZS1A0T1pNSEZQR05MUUFSNEU3VDVNNlkzSVJOR1NXQzdYVEQ3M1VIUENRS0RINzVCSDM0WkZESEhaUSJ9fQ.JN-_-IcRcVGKpC8CYG7cdDTQXtQurpVxO4EKlTLyIKEvO_R3xfwEKbQMlOoAyL7SpIyNePeWlCe4pLSFG0IN7ohqtGrwkK_GxMV3KIaHQgYBj8q-xWiJHf7UV-0UEp1zVS9ieLqtD40Xc7nxZvfVxSbcjJ2Vsq5t-Asaq-Sb-GEjnqH0uhr1eXcPpGFlfXBncxC6eK_8uAIaa0SOSeNzO3y_4Qt8c_pqZK7ZXbeGPxL35dHuJfXF5DJR7ZzP8ax19SwvUXQRZjjNwIF3-_R6LiD4mGbQLLek_MTK3xo2GxtagSmR9SQ33-ilrzB5aLO2YVWbIBECaJBVeu7kJx2Ezg"
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.cb996aea-3fc7-46a2-9653-7ee2b76d758c",
+		"timestamp": "2018-04-22T10:35:25Z",
+		"locale": "en-US",
+		"intent": {
+			"name": "AMAZON.PreviousIntent",
+			"confirmationStatus": "NONE"
+		}
+	}
+}
