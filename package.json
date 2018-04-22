@@ -1,0 +1,21 @@
+{
+  "name": "alexa-skill-kit-sdk-factskill",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.25",
+    "aws-sdk":"2.224.1",
+    "promise":"8.0.1",
+    "request":"2.85.0",
+    "request-promise":"4.2.2",
+    "cheerio":"1.0.0-rc.2"
+  },
+  "devDependencies":{
+    "serverless": "1.26.1"
+  },
+  "scripts": {
+    "start": "%USERPROFILE%\\AppData\\Roaming\\npm\\node_modules\\serverless\\bin\\serverless offline -s dev",
+    "debug": "SET SLS_DEBUG=* && node --debug %USERPROFILE%\\AppData\\Roaming\\npm\\node_modules\\serverless\\bin\\serverless offline -s dev",
+    "test": "SET NODE_ENV = test && mocha --recursive test"
+  }
+}

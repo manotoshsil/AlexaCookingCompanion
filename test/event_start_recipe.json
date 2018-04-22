@@ -1,0 +1,107 @@
+{
+    "version": "1.0",
+    "session": {
+        "new": false,
+        "sessionId": "amzn1.echo-api.session.d9d0d5fb-6950-4bc8-b417-892477b65015",
+        "application": {
+            "applicationId": "amzn1.ask.skill.db929eea-1245-470c-a97f-35aa87ee733b"
+        },
+        "attributes": {
+            "user": {
+                        "searchBy": "recipeName",
+                        "currentRecipe": {},
+                        "searchParam": "spinach",
+                        "recipeState": {
+                                "currentStep": -1,
+                                "ingredientListNo": -1,
+                                "recipeIndex": -1
+                        },
+                        "listRecipesCache": [
+                                {
+                                        "noOfReviews": "1785",
+                                        "RecipeBy": "https://www.allrecipes.com",
+                                        "Recipe": "spinach quiche",
+                                        "ratings": "4.7",
+                                        "url": "https://www.allrecipes.com/recipe/16664/spinach-quiche/"
+                                },
+                                {
+                                        "noOfReviews": "1920",
+                                        "RecipeBy": "https://www.allrecipes.com",
+                                        "Recipe": "crustless spinach quiche",
+                                        "ratings": "4.7",
+                                        "url": "https://www.allrecipes.com/recipe/20876/crustless-spinach-quiche/"
+                                },
+                                {
+                                        "noOfReviews": "1913",
+                                        "RecipeBy": "https://www.allrecipes.com",
+                                        "Recipe": "strawberry spinach salad i",
+                                        "ratings": "4.8",
+                                        "url": "https://www.allrecipes.com/recipe/14276/strawberry-spinach-salad-i/"
+                                },
+                                {
+                                        "noOfReviews": "991",
+                                        "RecipeBy": "https://www.allrecipes.com",
+                                        "Recipe": "best spinach dip ever",
+                                        "ratings": "4.7",
+                                        "url": "https://www.allrecipes.com/recipe/22617/best-spinach-dip-ever/"
+                                }
+                        ]
+
+
+                }
+        },
+        "user": {
+            "userId": "amzn1.ask.account.AGS6GDDRLG5AF33EMHVUMFT6ZAHC4SYYPXH3UL2J7MPQOFW22XTCD4JWGQT6YEFHLFP27GT6WG2TF73IUYW4MFKEE2N4PRWQ3LXDC4BGWVL3Q4CTF5YPAD2SGB5SXE5HR7U7I5RAXG56IGKRKTLJYKP4OZMHFPGNLQAR4E7T5M6Y3IRNGSWC7XTD73UHPCQKDH75BH34ZFDHHZQ"
+        }
+    },
+    "context": {
+        "AudioPlayer": {
+            "playerActivity": "IDLE"
+        },
+        "Display": {
+            "token": ""
+        },
+        "System": {
+            "application": {
+                "applicationId": "amzn1.ask.skill.db929eea-1245-470c-a97f-35aa87ee733b"
+            },
+            "user": {
+                "userId": "amzn1.ask.account.AGS6GDDRLG5AF33EMHVUMFT6ZAHC4SYYPXH3UL2J7MPQOFW22XTCD4JWGQT6YEFHLFP27GT6WG2TF73IUYW4MFKEE2N4PRWQ3LXDC4BGWVL3Q4CTF5YPAD2SGB5SXE5HR7U7I5RAXG56IGKRKTLJYKP4OZMHFPGNLQAR4E7T5M6Y3IRNGSWC7XTD73UHPCQKDH75BH34ZFDHHZQ"
+            },
+            "device": {
+                "deviceId": "amzn1.ask.device.AGPGZ6VIEW67KYEDTRSNALSAN5PFZVR3SKBAZQ2THISYSPZXBGKECJG2CGOK23TYOA3Y2BQSKLGTGHGN63SGI5D7KHXVHYHJYD2U77NBJHYOQRB4PDSIYZAFPRCLXVBIQSWXORLHIAP7C67TAB4C3GQ7MIJK2GEEC3W7TR2DGHWORZ2QJ62AA",
+                "supportedInterfaces": {
+                    "AudioPlayer": {},
+                    "Display": {
+                        "templateVersion": "1.0",
+                        "markupVersion": "1.0"
+                    }
+                }
+            },
+            "apiEndpoint": "https://api.eu.amazonalexa.com",
+            "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmRiOTI5ZWVhLTEyNDUtNDcwYy1hOTdmLTM1YWE4N2VlNzMzYiIsImV4cCI6MTUyNDM2OTI3MCwiaWF0IjoxNTI0MzY1NjcwLCJuYmYiOjE1MjQzNjU2NzAsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUdQR1o2VklFVzY3S1lFRFRSU05BTFNBTjVQRlpWUjNTS0JBWlEyVEhJU1lTUFpYQkdLRUNKRzJDR09LMjNUWU9BM1kyQlFTS0xHVEdIR042M1NHSTVEN0tIWFZIWUhKWUQyVTc3TkJKSFlPUVJCNFBEU0lZWkFGUFJDTFhWQklRU1dYT1JMSElBUDdDNjdUQUI0QzNHUTdNSUpLMkdFRUMzVzdUUjJER0hXT1JaMlFKNjJBQSIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFHUzZHRERSTEc1QUYzM0VNSFZVTUZUNlpBSEM0U1lZUFhIM1VMMko3TVBRT0ZXMjJYVENENEpXR1FUNllFRkhMRlAyN0dUNldHMlRGNzNJVVlXNE1GS0VFMk40UFJXUTNMWERDNEJHV1ZMM1E0Q1RGNVlQQUQyU0dCNVNYRTVIUjdVN0k1UkFYRzU2SUdLUktUTEpZS1A0T1pNSEZQR05MUUFSNEU3VDVNNlkzSVJOR1NXQzdYVEQ3M1VIUENRS0RINzVCSDM0WkZESEhaUSJ9fQ.gyiHCriLNCnAAB6ffPKLGtgZwxm2Fb2ivqSZhjQw8ymkEk1mkFsNBSi5mPcjDWlSSaRvI4ZXwS0tdFHZVEgEQg1CaZGRNJ2YeYn4WqYx5M49rwHdSMW1uR60n0BSDvkLG0Zvk87H5Eka7dcsnZoNSBMhJZYwaLuw4-5G5NYAnEpnOqoFl3-4jW1BzShEQAPyo87yf0JuU8yznJocjb7RxU6GqgSgFHBrbQOxyvRrBYXiPxs_5Dnl_7Cl7rwZRwtec6IuiZUHZphOuoFsCI4L5GhWXsONli0oLsd-U97mf_uFTI01TyP1s8RU-pKvq8MF4SrOBKtAhRM04ukNvt6oSw"
+        }
+    },
+    "request": {
+        "type": "IntentRequest",
+        "requestId": "amzn1.echo-api.request.89bcefd7-e105-4a96-893d-5adc60c4e68c",
+        "timestamp": "2018-04-22T02:54:30Z",
+        "locale": "en-US",
+        "intent": {
+            "name": "StartRecipe",
+            "confirmationStatus": "NONE",
+            "slots": {
+                "found_recipe_name": {
+                    "name": "found_recipe_name",
+                    "confirmationStatus": "NONE"
+                },
+                "found_recipe_number": {
+                    "name": "found_recipe_number",
+                    "value": "3",
+                    "confirmationStatus": "NONE"
+                }
+            }
+        },
+        "dialogState": "STARTED"
+    }
+}

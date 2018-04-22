@@ -1,0 +1,69 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.f8191b3d-080c-48cc-8585-8aca46d07c02",
+		"application": {
+			"applicationId": "amzn1.ask.skill.db929eea-1245-470c-a97f-35aa87ee733b"
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AGS6GDDRLG5AF33EMHVUMFT6ZAHC4SYYPXH3UL2J7MPQOFW22XTCD4JWGQT6YEFHLFP27GT6WG2TF73IUYW4MFKEE2N4PRWQ3LXDC4BGWVL3Q4CTF5YPAD2SGB5SXE5HR7U7I5RAXG56IGKRKTLJYKP4OZMHFPGNLQAR4E7T5M6Y3IRNGSWC7XTD73UHPCQKDH75BH34ZFDHHZQ"
+		}
+	},
+	"context": {
+		"AudioPlayer": {
+			"playerActivity": "IDLE"
+		},
+		"Display": {
+			"token": ""
+		},
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.db929eea-1245-470c-a97f-35aa87ee733b"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AGS6GDDRLG5AF33EMHVUMFT6ZAHC4SYYPXH3UL2J7MPQOFW22XTCD4JWGQT6YEFHLFP27GT6WG2TF73IUYW4MFKEE2N4PRWQ3LXDC4BGWVL3Q4CTF5YPAD2SGB5SXE5HR7U7I5RAXG56IGKRKTLJYKP4OZMHFPGNLQAR4E7T5M6Y3IRNGSWC7XTD73UHPCQKDH75BH34ZFDHHZQ"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AGPGZ6VIEW67KYEDTRSNALSAN5PFZVR3SKBAZQ2THISYSPZXBGKECJG2CGOK23TYOA3Y2BQSKLGTGHGN63SGI5D7KHXVHYHJYD2U77NBJHYOQRB4PDSIYZAFPRCLXVBIQSWXORLHIAP7C67TAB4C3GQ7MIJK2GEEC3W7TR2DGHWORZ2QJ62AA",
+				"supportedInterfaces": {
+					"AudioPlayer": {},
+					"Display": {
+						"templateVersion": "1.0",
+						"markupVersion": "1.0"
+					}
+				}
+			},
+			"apiEndpoint": "https://api.eu.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmRiOTI5ZWVhLTEyNDUtNDcwYy1hOTdmLTM1YWE4N2VlNzMzYiIsImV4cCI6MTUyNDA2MTg1MywiaWF0IjoxNTI0MDU4MjUzLCJuYmYiOjE1MjQwNTgyNTMsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUdQR1o2VklFVzY3S1lFRFRSU05BTFNBTjVQRlpWUjNTS0JBWlEyVEhJU1lTUFpYQkdLRUNKRzJDR09LMjNUWU9BM1kyQlFTS0xHVEdIR042M1NHSTVEN0tIWFZIWUhKWUQyVTc3TkJKSFlPUVJCNFBEU0lZWkFGUFJDTFhWQklRU1dYT1JMSElBUDdDNjdUQUI0QzNHUTdNSUpLMkdFRUMzVzdUUjJER0hXT1JaMlFKNjJBQSIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFHUzZHRERSTEc1QUYzM0VNSFZVTUZUNlpBSEM0U1lZUFhIM1VMMko3TVBRT0ZXMjJYVENENEpXR1FUNllFRkhMRlAyN0dUNldHMlRGNzNJVVlXNE1GS0VFMk40UFJXUTNMWERDNEJHV1ZMM1E0Q1RGNVlQQUQyU0dCNVNYRTVIUjdVN0k1UkFYRzU2SUdLUktUTEpZS1A0T1pNSEZQR05MUUFSNEU3VDVNNlkzSVJOR1NXQzdYVEQ3M1VIUENRS0RINzVCSDM0WkZESEhaUSJ9fQ.AEuw-exKaI8zFLUOWNtb-YVyP_7Gn2GOffuU9ESh3yi3KparcUS9TfpHKPD0QtgFbIkeyOPSRcZjz8EfZe4egntXbqQZozO2wNysgQZaW_Fa4vT8P2e1q7WTLm1UXPIKi2lYhaNngc8UZ0aUgHbyd_ltotFavzLQWwjZDcpFa1ANzOqziCf2CSQd5LzeY6PU9CE8GIe_iOWZj7gqf3kpIfkT8xNmpmg7viX3_tpJOHFm_9tJTs0cvraAfQCXVpYyk5PK7AadIOU6oDF0uOaFXpbzjaRy6ovJ7kR3o-zW4QiUEfleEcSRsvoiEiTAE39Ef8lKNQ9wKOcykPvQ1vZHfg"
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.a7d74711-4a00-4bdc-bb06-0c2bfa40df0a",
+		"timestamp": "2018-04-18T13:30:53Z",
+		"locale": "en-US",
+		"intent": {
+			"name": "SearchRecipe",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"recipe_name": {
+					"name": "recipe_name",
+					"value": "tomato",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.db929eea-1245-470c-a97f-35aa87ee733b.AMAZON.Food",
+								"status": {
+									"code": "ER_SUCCESS_NO_MATCH"
+								}
+							}
+						]
+					},
+					"confirmationStatus": "NONE"
+				}
+			}
+		},
+		"dialogState": "STARTED"
+	}
+}
